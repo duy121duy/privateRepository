@@ -96,7 +96,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.example.baitap2_3.BaiTap23Application</mainClass>
+                            <mainClass>com.example.baitap2_5.BaiTap25Application</mainClass>
                             <addClasspath>true</addClasspath>
                         </manifest>
                     </archive>
