@@ -1,6 +1,7 @@
-package com.example.baitap2_3.service.impl;
+package com.example.baitap2_5.service.impl;
 
-import com.example.baitap2_3.service.FindPrimeNumberService;
+
+import com.example.baitap2_5.service.FindPrimeNumberService;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

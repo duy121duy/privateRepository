@@ -1,7 +1,8 @@
-package com.example.baitap2_3.controller;
+package com.example.baitap2_5.controller;
 
-import com.example.baitap2_3.cache.CacheTTL1;
-import com.example.baitap2_3.service.FindPrimeNumberService;
+
+import com.example.baitap2_5.cache.CacheTTL1;
+import com.example.baitap2_5.service.FindPrimeNumberService;
 import com.google.common.cache.CacheBuilder;
 import com.google.common.cache.CacheLoader;
 import com.google.common.cache.LoadingCache;

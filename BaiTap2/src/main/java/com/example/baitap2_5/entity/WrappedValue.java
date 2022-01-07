@@ -1,4 +1,4 @@
-package com.example.baitap2_3.entity;
+package com.example.baitap2_5.entity;
 
 public class WrappedValue<V> {
     private V value;

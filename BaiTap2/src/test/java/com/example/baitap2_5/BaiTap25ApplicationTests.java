@@ -1,10 +1,10 @@
-package com.example.baitap2_3;
+package com.example.baitap2_5;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BaiTap23ApplicationTests {
+class BaiTap25ApplicationTests {
 
     @Test
     void contextLoads() {

@@ -1,8 +1,9 @@
-package com.example.baitap2_3.cache;
+package com.example.baitap2_5.cache;
 
-import com.example.baitap2_3.entity.WrappedValue;
-import com.example.baitap2_3.service.FindPrimeNumberService;
-import com.example.baitap2_3.service.impl.FindPrimeNumberServiceImpl;
+
+import com.example.baitap2_5.entity.WrappedValue;
+import com.example.baitap2_5.service.FindPrimeNumberService;
+import com.example.baitap2_5.service.impl.FindPrimeNumberServiceImpl;
 
 import java.util.Date;
 import java.util.HashMap;
