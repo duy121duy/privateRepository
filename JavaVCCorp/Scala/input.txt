@@ -1,0 +1,5 @@
+Time to learn Spark programming
+Time to Learn Scala
+Spark is built by Scala
+Scala is based on Java
+I love scala
